@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./styles/style.css" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="661c608646a6af1bf859c4c7511b5be7">
     <title>Document</title>
   </head>
   <body>
     <div id="container">
       <div id="start">Start Quiz!</div>
-      <div id="quiz" style="display: none">
+      <div id="quiz" style="1b84b5af340a952a60e7ba0d03505210">
         <div id="question"></div>
         <div id="qImg"></div>
         <div id="choices">
@@ -25,9 +25,8 @@
         </div>
         <div id="progress"></div>
       </div>
-      <div id="scoreContainer" style="display: none"></div>
+      <div id="scoreContainer" style="9f375a52e7d0578111de6ad79736d89a"></div>
     </div>
-
-    <script src="./js/quiz.js"></script>
   </body>
 </html>
+<script src="202f65accccb6071212b96a1d3c27081"></script>

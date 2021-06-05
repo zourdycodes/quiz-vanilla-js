@@ -1,18 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./styles/style.css" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="661c608646a6af1bf859c4c7511b5be7">
     <title>Document</title>
   </head>
   <body>
     <div id="container">
       <div id="start">Start Quiz!</div>
-      <div id="quiz" style="display: none">
+      <div id="quiz" style="1b84b5af340a952a60e7ba0d03505210">
         <div id="question"></div>
-        <div id="qImg"></div>
+        <div id="qImg">
+          <img src="44aec6eb875b286de761a692f3f17c0c" alt="">
+        </div>
         <div id="choices">
           <div class="choice" id="A" onclick="checkAnswer('A')"></div>
           <div class="choice" id="B" onclick="checkAnswer('B')"></div>
@@ -25,9 +27,9 @@
         </div>
         <div id="progress"></div>
       </div>
-      <div id="scoreContainer" style="display: none"></div>
+      <div id="scoreContainer" style="41592fa8e5a50b600b24a28e4df42c4b"></div>
     </div>
 
-    <script src="./js/quiz.js"></script>
+    <script src="e4ad452be6b70f6492bd658d6df423d7"></script>
   </body>
 </html>
